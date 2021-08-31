@@ -4,7 +4,7 @@
 
 # 模型结果
 
-模型的rouge评分如图所示：
+模型的rouge评分如图所示，或者`core\eval.txt`：
 
 具体脚本详见`core\eval.py` ，decode是对`greedy search`的结果进行decode
 
