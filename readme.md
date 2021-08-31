@@ -8,13 +8,13 @@
 
 具体脚本详见`core\eval.py` ，decode是对`greedy search`的结果进行decode
 
-![image-20210901002307535](C:\Users\wie\AppData\Roaming\Typora\typora-user-images\image-20210901002307535.png)
+![image-20210901002307535](https://github.com/yang-collect/text_summary/blob/main/image-20210901002307535.png)
 
 模型服务返回结果如下图：
 
 生成采用的`beam search`，并未进行细致调参
 
-![image-20210901005902763](C:\Users\wie\AppData\Roaming\Typora\typora-user-images\image-20210901005902763.png)
+![image-20210901005902763](https://github.com/yang-collect/text_summary/blob/main/image-20210901005902763.png)
 
 # 模型介绍
 
